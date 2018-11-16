@@ -1,4 +1,5 @@
 sunshine <- read.csv("ontario-2017-sunshine-list.csv")
+#readr is part of tidyverse, either install all of tidyverse (takes a while) or maybe just readr
 library(readr)
 #these two lines convert factor (strings) for salary and benefits to numeric
 sunshine$Salary.Paid <- parse_number(sunshine$Salary.Paid)
