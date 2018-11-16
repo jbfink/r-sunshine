@@ -1,0 +1,29 @@
+(note: consult pinboard.in/u:jbfink/t:R, these notes may be out of date)
+To get librarians from csv:
+
+1) read csv into R (done - sunshine <- read.csv("sunshine.csv")
+2) something like -- librarian-sunshine <- sunshine$Job.Title("librarian"), something with a regex of course
+3) ????
+
+DISREGARD ABOVE, this is method:
+librarians <- sunshine[grep("Librarian", sunshine$Job.Title, perl=TRUE), ]
+#nts : figure out WHY that comma? fuck
+#comma with blank means "Select All Columns", it's like a wildcard. Try putting in a *specific* column to see how it changes.
+#new nts: figure out how to display multiple columns (but not ALL columns) for a search. Can we get just first and last names?
+(then do same trick on librarians to get employer via something like:
+mcmaster_librarians <- librarians[grep("Mcmaster University", librarians$Employer, perl=TRUE)]
+(this is from https://stackoverflow.com/questions/19081613/r-need-to-subset-a-data-frame-using-matches-from-a-regex-expression)
+
+To convert string salaries into numeric, something like:
+sunshine$Salary <- parse_number(sunshine$Salary)
+(note: I think this depends on library(readr) being active)
+
+
+PROJECT IDEAS:
+
+Simple: Count the number of librarians for each institution, output like: York: 50, Ryerson: 20, Mac: 10 or something like that
+dim(librarians[grep("York", librarians$Employer, perl=TRUE) ,]) returns rows + columns. Probably a more elegant way to get just rows.
+
+Next: plot that. Either ggplot2 or native. X axis = employers, Y axis = number.
+
+????
