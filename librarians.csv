@@ -1,0 +1,365 @@
+"","Sector","Last.Name","First.Name","Salary.Paid","Taxable.Benefits","Employer","Job.Title","Calendar.Year"
+"507","Colleges","Ross","Alexandra",115633.57,60.98,"Humber College Institute of Technology and Advanced Learning","Librarian, Business",2017
+"716","Colleges","Varcoe","Jennifer",101783.89,101.64,"Georgian College","Librarian",2017
+"1806","Colleges","Biron","Carmen",104051.59,63.82,"Centennial College","Librarian",2017
+"9034","Government of Ontario - Legislative Assembly and Offices","Whitmell","Vicki",177894.64,301.48,"Legislative Assembly / Assemblée législative","Executive Director, Information and Technology Services and Legislative Librarian / Directrice générale des Services d'information et de technologie et bibliothécaire de l'Assemblée législative",2017
+"40211","Municipalities and Services","Cannon","Geoffrey",141676.34,1222.72,"Town of Halton Hills","Chief Librarian",2017
+"40432","Municipalities and Services","Fraser","Darla",133736.43,1096.68,"Town of Orangeville","Chief Librarian",2017
+"40447","Municipalities and Services","Duce","Deborah",119271.39,251.64,"Town of Huntsville","Chief Librarian and Chief Executive Officer",2017
+"40916","Municipalities and Services","Hubbard Krimmer","Susanna",149649.34,612,"City of London - London Public Library","Chief Executive Officer and Chief Librarian",2017
+"43359","Municipalities and Services","Wark","Meighan",137931.74,831.72,"County of Huron","County Librarian and Director of Cultural Services",2017
+"44836","Municipalities and Services","Selby","Gay",130944.52,899.12,"County of Brant","Chief Librarian",2017
+"44948","Municipalities and Services","Miettinen","Lisa",124004.1,656.5,"County of Oxford","Chief Executive Officer and Chief Librarian",2017
+"45001","Municipalities and Services","Asseltine","Jayne",101008.25,523.27,"Town of Innisfil","Deputy Chief Librarian",2017
+"45012","Municipalities and Services","Downs","Susan",161164.92,739.68,"Town of Innisfil","Chief Librarian",2017
+"45140","Municipalities and Services","Lipp","Colleen",131331.4,1091.79,"Town of Caledon","Chief Librarian / Chief Executive Officer",2017
+"47393","Municipalities and Services","Takala","Paul",180749.66,823.44,"City of Hamilton","Chief Librarian",2017
+"57527","Municipalities and Services","Robinson","Heather",109591.16,1110.15,"City of St. Thomas","Chief Executive Officer, Chief Librarian",2017
+"57943","Municipalities and Services","Sullivan","Bessie",104139.76,1340.96,"County of Haliburton","Chief Executive Officer, County Librarian",2017
+"57949","Municipalities and Services","Hartman","Alexandra",100805.27,994.43,"Township of Uxbridge","Chief Executive Officier - Chief Librarian",2017
+"57984","Municipalities and Services","Bowles","Vickery",239023.35,1509.7,"City of Toronto - Public Library Board","City Librarian",2017
+"58056","Municipalities and Services","Veli","Ravil",129195.67,950.73,"City of North Bay - Public Library Board","Library Chief Executive Officer Chief Librarian",2017
+"60379","Municipalities and Services","Nicholls-Harrison","Timothy-J",117535.95,722.88,"City of Owen Sound","Chief Librarian",2017
+"62921","Municipalities and Services","Sharpe","Tania L.",110998.15,646.34,"Municipality of Chatham-Kent","Chief Librarian",2017
+"66796","Municipalities and Services","Brock","Lindsay",106484.04,658.59,"County of Middlesex","County Librarian",2017
+"79180","Municipalities and Services","Gardham","Bruce",106545.54,757.64,"City of Toronto","Senior Librarian",2017
+"80182","Municipalities and Services","Gilpin","Chanda",120066.1,762.56,"County of Wellington","Assistant Chief Librarian",2017
+"80188","Municipalities and Services","Mccabe","Murray",162857.8,1020.56,"County of Wellington","Chief Librarian",2017
+"93671","Other Public Sector Employers","Harrison","Timothy J.K.",118258.83,722.88,"Owen Sound And North Grey Union Public Library","Chief Executive Officer/Chief Librarian",2017
+"107515","School Boards","Reed","Julia",100326.83,81.5,"Upper Grand District School Board","Secondary Librarian",2017
+"113135","Universities","Fox","Douglas",126007.08,206.22,"Victoria University","Librarian",2017
+"113138","Universities","Kail","Roma",110140.74,234.11,"Victoria University","Librarian",2017
+"113155","Universities","Sherlock","Lisa",144612.66,207.3,"Victoria University","Chief Librarian",2017
+"113156","Universities","Socknat","Carmen",136053.36,276.6,"Victoria University","Librarian",2017
+"113161","Universities","Wishart","Karen",116029.08,191.88,"Victoria University","Librarian",2017
+"113199","Universities","Rourk","Lorna",115881.84,377.28,"St. Jerome's University","Professional Librarian",2017
+"113221","Universities","Morden","Sandra",136546.68,0,"Queen's University","Library Head (Discovery and Technology Systems), Associate Librarian",2017
+"113269","Universities","Coyne","Morag",105400.04,157.24,"Queen's University","Associate Librarian (Undergraduate Services)",2017
+"113281","Universities","Kaufman","Amy",124293.93,189.92,"Queen's University","Library Head (Law Library), Associate Librarian",2017
+"113333","Universities","Gibson","Mary Elizabeth",131863.36,197.36,"Queen's University","Associate Librarian (Research and Instruction)",2017
+"113401","Universities","Musgrave","Sharon",138791.68,215.32,"Queen's University","Associate Librarian",2017
+"113402","Universities","Read","Elizabeth",127171.76,0,"Queen's University","Librarian (Acquisitions)",2017
+"113483","Universities","Maranda","Suzanne",146953.36,297.6,"Queen's University","Library Head (Health Sciences Library), Librarian",2017
+"113498","Universities","Moon","Jeffrey",137176.68,297.6,"Queen's University","Librarian (Data)",2017
+"113526","Universities","Laverty","Corinne",143551.68,297.6,"Queen's University","Librarian",2017
+"113572","Universities","Chittenden","Michele",135466.64,297.6,"Queen's University","Library Head (Academic Services), Librarian",2017
+"113576","Universities","Druery","Jackie",142276.68,0,"Queen's University","Library Head (Learning and Research Services), Librarian",2017
+"113597","Universities","Walls","Lucinda",131980,0,"Queen's University","Associate Librarian (Public Services)",2017
+"113609","Universities","Adamson","Constance",140473.04,297.6,"Queen's University","Associate Librarian (Research and Instruction)",2017
+"113641","Universities","Reed","Brenda",136845,204.8,"Queen's University","Library Head (Education Library), Associate Librarian (Learning and Research Services)",2017
+"113642","Universities","Wu","Wenyan",124053.32,297.6,"Queen's University","Associate Librarian (Access Services)",2017
+"113661","Universities","Smithers","Anne",141644.96,211.28,"Queen's University","Library Head (Collection Development and Assessment), Librarian (Collections Assessment and Evaluation)",2017
+"113727","Universities","Halliday","Sandra",122148.32,297.6,"Queen's University","Associate Librarian (Public Services)",2017
+"113791","Universities","Durando","Paola",121141.64,185.56,"Queen's University","Associate Librarian (Public Services)",2017
+"113805","Universities","Akenson","Gillian",116988,314.82,"Queen's University","Associate Librarian (Research and Instruction)",2017
+"113861","Universities","Soini","Nathalie",115713.44,180.04,"Queen's University","Library Head (Information Services), Associate Librarian (Learning Commons Coordinator)",2017
+"113876","Universities","Mccormack","Nancy",148497.98,246.56,"Queen's University","Associate Professor, Librarian (Law)",2017
+"113919","Universities","Brule","Anne",109618.33,170.2,"Queen's University","Associate Librarian (Electronic Resources and Serials)",2017
+"113942","Universities","Whitehead","Martha",182551.68,297.6,"Queen's University","Vice-Provost (Digital Planning) and University Librarian, Librarian",2017
+"113958","Universities","White","Michael",129622.32,187,"Queen's University","Associate Librarian (Research Services)",2017
+"113960","Universities","Andrychuk","Sylvia",108425,297.6,"Queen's University","Associate Librarian (Research and Instruction)",2017
+"113962","Universities","Symons","Ellen",129335,193.48,"Queen's University","Associate Librarian (Electronic Resources and Serials)",2017
+"113979","Universities","Vandenburg","Mary Claire",107673.32,297.6,"Queen's University","Associate Librarian (Research and Instruction)",2017
+"114022","Universities","Saleh","Nasser",120146.68,297.6,"Queen's University","Library Head (Engineering and Science Library), Librarian",2017
+"114096","Universities","Vandenburg","Michael",123918.36,297.6,"Queen's University","Associate University Librarian, Associate Librarian",2017
+"114184","Universities","Bregman","Alvan",149458.32,0,"Queen's University","Library Head, Librarian",2017
+"114192","Universities","Coughlan","Rosarie",100104.96,0,"Queen's University","Assistant Librarian",2017
+"114225","Universities","Mcmullen","Heather",128980.96,297.6,"Queen's University","Associate University Librarian, Associate Librarian",2017
+"115192","Universities","Dodsworth","Eva",100533.64,140.28,"University of Waterloo","Geospatial Data Services Librarian",2017
+"115338","Universities","Keys","Sandra Ann",101296.04,141.36,"University of Waterloo","Librarian, Information Services and Resources",2017
+"115339","Universities","Forgay","Jane D.",114804.64,373.76,"University of Waterloo","Librarian, Liaison",2017
+"115340","Universities","Stapleton","Jackie",112052.8,156.32,"University of Waterloo","Librarian, Liaison",2017
+"115828","Universities","Regalado","Sophie",104738.43,676.79,"Northern Ontario School of Medicine","Librarian",2017
+"115902","Universities","Keiller","Karen",164079.11,1155.68,"Lakehead University","University Librarian and Vice-Provost (Teaching and Learning)",2017
+"116027","Universities","Wuorinen","Louise",132478.11,1045.44,"Lakehead University","Librarian IV",2017
+"116083","Universities","Gibbons","Valerie",119234.67,944.16,"Lakehead University","Librarian III",2017
+"116084","Universities","Scalese","Gisella",119023.63,942.4,"Lakehead University","Librarian III",2017
+"116090","Universities","Davidson","Moira",117058.03,926.24,"Lakehead University","Librarian III",2017
+"116130","Universities","Gold","Debra",108250.67,856.88,"Lakehead University","Librarian III",2017
+"116162","Universities","Zou","Qing",102015.71,806.88,"Lakehead University","Librarian III",2017
+"116166","Universities","Russo","Jean",101302.99,801.6,"Lakehead University","Librarian III",2017
+"116173","Universities","Mutz","Janice",100073.71,789.12,"Lakehead University","Librarian IV",2017
+"116188","Universities","Hernden","Ken",122436.48,4897.44,"Algoma University","Librarian",2017
+"116191","Universities","Isard","Robin",100656.45,8052.47,"Algoma University","Assistant Librarian",2017
+"116259","Universities","Patrick","Jill",148645.12,1413.54,"Ontario College of Art and Design University (Ocad)","University Librarian",2017
+"116429","Universities","Banerjee","Sanjoy",111986.64,799.08,"Ryerson University","Librarian",2017
+"116503","Universities","Cameron","Brian",135503.42,961.42,"Ryerson University","Librarian",2017
+"116612","Universities","Dermody","Kelly",107415.15,767.77,"Ryerson University","Librarian",2017
+"116649","Universities","Eichenlaub","Naomi",112040.16,794.93,"Ryerson University","Librarian",2017
+"116669","Universities","Farnum","Cecile",118211.18,839.87,"Ryerson University","Librarian",2017
+"116703","Universities","Fraser","Lucina",102803.9,812.32,"Ryerson University","Librarian",2017
+"116755","Universities","Granfield","Diane",169229.66,1200.32,"Ryerson University","Librarian",2017
+"116764","Universities","Grover","Trina",128590.99,996.88,"Ryerson University","Librarian",2017
+"116853","Universities","Jackson","Robert",162218.82,1151.38,"Ryerson University","Librarian",2017
+"116857","Universities","Jakubek","Daniel",110615.35,779.63,"Ryerson University","Librarian",2017
+"116866","Universities","Jin","Lei",119465.05,841.7,"Ryerson University","Librarian",2017
+"116899","Universities","Kinder","Don",165765.85,1172.86,"Ryerson University","Librarian",2017
+"116948","Universities","Lefebvre","Madeleine",179812.17,1239.72,"Ryerson University","Librarian",2017
+"116951","Universities","Lem","Val",118699.81,838.25,"Ryerson University","Librarian",2017
+"117015","Universities","Manuel","Kevin",111380.69,791.45,"Ryerson University","Librarian",2017
+"117294","Universities","Schmidt","Jane",116922.21,823.9,"Ryerson University","Librarian",2017
+"117394","Universities","Thomas","Dana",134473.49,956.16,"Ryerson University","Associate Chief Librarian",2017
+"117465","Universities","Wang","Weina",105285.85,741.19,"Ryerson University","Librarian",2017
+"117466","Universities","Wang","Fangmin",116675.74,815.31,"Ryerson University","Librarian",2017
+"117483","Universities","Wilson","Sarah",145469.92,1026.34,"Ryerson University","Librarian",2017
+"117493","Universities","Wolofsky","Jay",126244.92,895.54,"Ryerson University","Librarian",2017
+"117610","Universities","Clarke","Robert",162918.9,261.42,"Trent University","University Librarian",2017
+"117636","Universities","Field","Kenneth",152918.94,186.63,"Trent University","Librarian",2017
+"117691","Universities","Luyben","Jean",152918.94,386.63,"Trent University","Librarian",2017
+"117726","Universities","Olsen-Lynch","Ellen",123774.06,317.7,"Trent University","Librarian",2017
+"117752","Universities","Scigliano","Marisa",124676.94,387,"Trent University","Librarian",2017
+"117780","Universities","Watson","James",122383.38,180.96,"Trent University","Librarian",2017
+"117796","Universities","Znamirowski","Barbara",155846.16,356.82,"Trent University","Librarian",2017
+"117842","Universities","Horava","Tony",162090.48,15.6,"University of Ottawa","Bibliothécaire associé(e) / Associate University Librarian",2017
+"117901","Universities","Harkin","Richard",143052.64,15.6,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118122","Universities","Mowers","Susan",143052.64,15.6,"University of Ottawa","Bibliothécaire des données / Data Librarian",2017
+"118177","Universities","Weir","Leslie",199608,135.72,"University of Ottawa","Bibliothécaire en chef / Chief Librarian",2017
+"118300","Universities","Labelle","Patrick",105389.68,15.6,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118396","Universities","Hemingway","Ann",122524.72,144.3,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118399","Universities","Hayden","Elizabeth",106585.92,15.6,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118413","Universities","Metcalf","Cameron",130010.4,15.6,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118535","Universities","Léonard","Nathalie",118932.72,15.6,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118687","Universities","Pitblado","Jeffrey",106951.04,82.05,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118709","Universities","Fournier","Karine",110909.68,59.1,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118735","Universities","Dekker","Jennifer",121051.04,144.3,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118816","Universities","Laflamme","Maryse",115368.63,15.6,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118817","Universities","Rokolj","Tea",109315.68,15.52,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118874","Universities","Tellis","Cecilia",106056.86,15.6,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118908","Universities","Hill","Sarah",110545.68,15.6,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118927","Universities","Bouchard","Jasmine",104158.71,144.22,"University of Ottawa","Bibliothécaire / Librarian",2017
+"118931","Universities","Mcewan","Jessica",111697.3,15.52,"University of Ottawa","Bibliothécaire / Librarian",2017
+"119018","Universities","Cavanagh","Joan",147928.4,15.6,"University of Ottawa","Bibliothécaire associé(e) / Associate University Librarian",2017
+"119052","Universities","Moisil","Ingrid",118489.09,82.05,"University of Ottawa","Bibliothécaire / Librarian",2017
+"119064","Universities","Domecq","Marie-Cécile",123350.96,57.9,"University of Ottawa","Bibliothécaire / Librarian",2017
+"119089","Universities","Gregory","Alexandra",109568.32,15.52,"University of Ottawa","Bibliothécaire / Librarian",2017
+"119124","Universities","Petryk","Anthony",102529.76,15.52,"University of Ottawa","Bibliothécaire / Librarian",2017
+"119226","Universities","Oliver","Christine",136011.92,15.6,"University of Ottawa","Bibliothécaire / Librarian",2017
+"119379","Universities","Bergart","Robin",119209.2,400.02,"University of Guelph","Associate Librarian",2017
+"119390","Universities","Birch","Nancy",128353.44,405.3,"University of Guelph","Associate Librarian and Manager, Library Services, Guelph-Humber",2017
+"119499","Universities","D'Elia","Matthew-Jim",129336.09,385.8,"University of Guelph","Associate Chief Librarian",2017
+"119537","Universities","Etches","Amanda",142048.25,678.34,"University of Guelph","Associate Chief Librarian",2017
+"119609","Universities","Graburn","Linda",125558.94,0,"University of Guelph","Associate Librarian",2017
+"119612","Universities","Graham","Rebecca",203349.68,1741.8,"University of Guelph","Chief Librarian",2017
+"119643","Universities","Harvey","Kathryn",140611.92,679.54,"University of Guelph","Associate Librarian and Head, Archival and Special Collections",2017
+"119672","Universities","Horne","Douglas",146035.93,694.98,"University of Guelph","Librarian and Head, Discovery and Access",2017
+"119702","Universities","Johnston","Wayne",121653.65,420.18,"University of Guelph","Associate Librarian",2017
+"119793","Universities","Lupien","Pascal",124486.63,592.38,"University of Guelph","Associate Librarian",2017
+"119828","Universities","Marvin","Jennifer",124524.57,935.84,"University of Guelph","Associate Librarian",2017
+"119839","Universities","Mcafee","Melissa",107764.87,553.93,"University of Guelph","Assistant Librarian",2017
+"119847","Universities","Mcdonald","Barbara",155003.84,701.28,"University of Guelph","Associate Chief Librarian",2017
+"119920","Universities","Nicholson","Karen",125639.47,602.82,"University of Guelph","Associate Librarian and Manager, Information Literacy",2017
+"119938","Universities","Oldham","Randy",108255.8,495.66,"University of Guelph","Associate Librarian",2017
+"119966","Universities","Perry","Carol",108048.93,555.62,"University of Guelph","Associate Librarian",2017
+"119998","Universities","Ridley","Michael",166430.11,855.39,"University of Guelph","Librarian",2017
+"120020","Universities","Sakowski","Robin",110828.4,351.3,"University of Guelph","Associate Librarian",2017
+"120022","Universities","Salmon","Helen",145898.61,752.62,"University of Guelph","Information Resources Librarian",2017
+"120216","Universities","Adam","Tom",105752.4,70.2,"University of Western Ontario","Associate Academic Librarian",2017
+"120553","Universities","Fazekas","Monica",113833.14,108,"University of Western Ontario","Associate Academic Librarian",2017
+"120622","Universities","Glushko","Robert",119451.36,108,"University of Western Ontario","Associate Chief Librarian/Associate Academic Librarian",2017
+"120641","Universities","Gray","Frances",103255.56,108,"University of Western Ontario","Associate Academic Librarian",2017
+"120642","Universities","Gray","Vincent",105812.16,108,"University of Western Ontario","Senior Academic Librarian",2017
+"120677","Universities","Harrington","Marni",129750.97,408,"University of Western Ontario","Associate Academic Librarian",2017
+"120998","Universities","Meert-Williston","Deborah",100148.7,108,"University of Western Ontario","Assistant Academic Librarian",2017
+"121143","Universities","Philpott","Lisa",144850.35,108,"University of Western Ontario","Associate Academic Librarian",2017
+"121234","Universities","Robinson","Jennifer L.",123040,108,"University of Western Ontario","Associate Chief Librarian/Associate Academic Librarian",2017
+"121258","Universities","Rykse","Harriet",127141.36,108,"University of Western Ontario","Associate Chief Librarian/Associate Academic Librarian",2017
+"121262","Universities","Sadler","John",113869.98,108,"University of Western Ontario","Senior Academic Librarian",2017
+"121384","Universities","Steeves","Catherine",210930.49,108,"University of Western Ontario","University Librarian/Senior Academic Librarian",2017
+"121508","Universities","Wilkins","Catherine",120197.02,108,"University of Western Ontario","Assistant University Librarian",2017
+"121529","Universities","Woods","Cheryl",104812.02,108,"University of Western Ontario","Senior Academic Librarian",2017
+"121573","Universities","Adlington","Janice",101695.43,227.13,"Mcmaster University","Librarian III",2017
+"121588","Universities","An","Jeannie",115518.75,227.13,"Mcmaster University","Librarian IV",2017
+"121608","Universities","Askey","Dale",134397.55,227.13,"Mcmaster University","Associate University Librarian",2017
+"121633","Universities","Ball","Kathryn",115982.15,227.13,"Mcmaster University","Librarian IV",2017
+"121676","Universities","Bhatnagar","Neera",106066.52,227.13,"Mcmaster University","Librarian IV",2017
+"122208","Universities","Lewis","Vivian",178388.08,406.59,"Mcmaster University","University Librarian",2017
+"122295","Universities","Mclellan","Andrea E.",100213.39,227.13,"Mcmaster University","Librarian IV",2017
+"122439","Universities","Pottier","Anne",146830.56,227.13,"Mcmaster University","Associate University Librarian",2017
+"122590","Universities","Stapleton","Rick",101695.43,227.13,"Mcmaster University","Librarian III",2017
+"122737","Universities","Wyckoff","Wade",134843.03,227.13,"Mcmaster University","Associate University Librarian",2017
+"122807","Universities","Avramsson","Kristof",125710.61,0,"Carleton University","Professional Librarian",2017
+"122816","Universities","Banski","Erika",115909.04,0,"Carleton University","Professional Librarian",2017
+"122931","Universities","Critchley","Valerie",137407.66,0,"Carleton University","Professional Librarian",2017
+"122935","Universities","Cross","Emma",122627.56,0,"Carleton University","Professional Librarian",2017
+"122981","Universities","Duimovich","George",142255.51,0,"Carleton University","Professional Librarian Associate University Librarian",2017
+"123013","Universities","Fry","Jane",103966.25,0,"Carleton University","Professional Librarian",2017
+"123061","Universities","Gullikson","Shelley",108745.76,0,"Carleton University","Professional Librarian",2017
+"123076","Universities","Harper","Patti-Lynn",129107.8,0,"Carleton University","Professional Librarian Department Head",2017
+"123089","Universities","Hempstead","Janet",147075.51,0,"Carleton University","Professional Librarian",2017
+"123137","Universities","Jones","Wayne",171231.6,0,"Carleton University","Professional Librarian University Librarian",2017
+"123138","Universities","Jordan","Isla",151643.54,0,"Carleton University","Professional Librarian",2017
+"123184","Universities","Lafortune","Sylvie",150037.69,0,"Carleton University","Professional Librarian",2017
+"123192","Universities","Lannon","Amber",136325.64,0,"Carleton University","Professional Librarian Associate University Librarian",2017
+"123197","Universities","Lawless","Lenard",104778.5,0,"Carleton University","Professional Librarian",2017
+"123230","Universities","Macdonald","Heather",107932.64,0,"Carleton University","Professional Librarian Department Head",2017
+"123298","Universities","Montgomery","Frances",163114.55,0,"Carleton University","Professional Librarian",2017
+"123301","Universities","Moore","Patricia",152281.58,0,"Carleton University","Professional Librarian",2017
+"123398","Universities","Renon","Flavia",136783.73,0,"Carleton University","Professional Librarian",2017
+"123448","Universities","Scammell","Janice",162394.73,0,"Carleton University","Professional Librarian",2017
+"123461","Universities","Senecal","Judy",111327.34,0,"Carleton University","Professional Librarian",2017
+"123467","Universities","Sharp","David",113504.53,0,"Carleton University","Professional Librarian Department Head",2017
+"123590","Universities","Warren","John",131696.62,0,"Carleton University","Professional Librarian",2017
+"123602","Universities","Whitney","Jennifer",102729.67,0,"Carleton University","Professional Librarian",2017
+"123644","Universities","Papadopoulos","John",150965.52,207.24,"Trinity College","Nicholls Librarian and Director, John W. Graham Library",2017
+"123679","Universities","Allison-Cassin","Stacy",130391.96,802.72,"York University","Associate Librarian",2017
+"123689","Universities","An","Angie",112720.24,694.16,"York University","Assistant Librarian",2017
+"123759","Universities","Bell","Norda",130034,837.48,"York University","Associate Librarian",2017
+"123835","Universities","Bury","Sophie",145860.06,896.26,"York University","Associate Librarian",2017
+"123852","Universities","Cao","Haiyun",135294.4,831.32,"York University","Associate Librarian",2017
+"123936","Universities","Craig","Dana",124644.6,766.48,"York University","Associate Librarian",2017
+"123993","Universities","Denton","William T",129128.6,794.56,"York University","Associate Librarian",2017
+"124007","Universities","Dina","Oluyemisi A",143706.36,883.96,"York University","Associate Librarian",2017
+"124031","Universities","Dubeau","Suzanne T",141874.76,880.52,"York University","Associate Librarian",2017
+"124035","Universities","Duerr","Peter K",117072.72,720.84,"York University","Assistant Librarian",2017
+"124039","Universities","Dupuis","John L",141833.45,872.32,"York University","Associate Librarian",2017
+"124057","Universities","Elder","Kathryn",157697.41,345.74,"York University","Associate Librarian",2017
+"124115","Universities","Fraser","Heather A",161872.6,994.48,"York University","Associate Librarian",2017
+"124152","Universities","Giesbrecht","Walter W",157818.96,969.88,"York University","Associate Librarian",2017
+"124199","Universities","Grewal","Kanwaljit",152329.48,937.2,"York University","Associate Librarian",2017
+"124320","Universities","Jackson","Leigh E",102722.68,631.36,"York University","Assistant Librarian",2017
+"124370","Universities","Kandiuk","Mary O",173894.68,1069.56,"York University","Senior Librarian",2017
+"124419","Universities","Kirchner","Joy",204800.04,1136.52,"York University","Senior Librarian",2017
+"124428","Universities","Knight","Frederick Timothy",140559.84,864.08,"York University","Associate Librarian",2017
+"124437","Universities","Kosavic","Andrea",136061.32,836.44,"York University","Associate Librarian",2017
+"124523","Universities","Li","Xuemei",122635.16,791.08,"York University","Assistant Librarian",2017
+"124550","Universities","Lupton","Aaron A",131029.32,806.76,"York University","Associate Librarian",2017
+"124583","Universities","Maimets","Ilo-Katryn",120674.91,825.2,"York University","Associate Librarian",2017
+"124612","Universities","Matesic","Maura Alicia",154256.02,888,"York University","Associate Librarian",2017
+"124648","Universities","Mclaren","Scott Kenneth",151695.32,933.04,"York University","Associate Librarian",2017
+"124662","Universities","Mgwigwi","Thumeka",123800.56,761.72,"York University","Associate Librarian",2017
+"124679","Universities","Mirando","Louis",186448.72,1041.28,"York University","Chief Law Librarian",2017
+"124689","Universities","Moir","Michael B",173896.6,1069.56,"York University","Associate Librarian",2017
+"124741","Universities","Nariani","Rajiv",128004.68,788.4,"York University","Associate Librarian",2017
+"124787","Universities","Orlandini","Rosa",126235.94,776.04,"York University","Associate Librarian",2017
+"124827","Universities","Perlin","Daniel I",132339.84,814.32,"York University","Associate Librarian",2017
+"124889","Universities","Quail","Stephanie L",100648.48,619.12,"York University","Assistant Librarian",2017
+"124953","Universities","Ruest","Nick J",120082.62,739.16,"York University","Associate Librarian",2017
+"124961","Universities","Ryan","Patricia L",136462.8,839.52,"York University","Associate Librarian",2017
+"124969","Universities","Salmon","Marcia K",134203.36,825.2,"York University","Associate Librarian",2017
+"124986","Universities","Savard","Dany",130741.36,804.78,"York University","Associate Librarian",2017
+"125004","Universities","Scott","Tom E",169653.24,1039.03,"York University","Associate Dean / Associate Librarian",2017
+"125054","Universities","Sloniowski","Lisa T",121426.93,831.32,"York University","Associate Librarian",2017
+"125079","Universities","St.Onge","Anna",127269.96,782.24,"York University","Associate Librarian",2017
+"125126","Universities","Taves","Adam R",141898.56,882.56,"York University","Associate Librarian",2017
+"125186","Universities","Van Der Bliek","Rob",173688.34,1006.76,"York University","Associate Librarian",2017
+"125225","Universities","Wang","Xiaorong Sharon",149610.76,790.4,"York University","Associate Librarian",2017
+"125229","Universities","Warren","Peggy A",147286.6,978.12,"York University","Associate Librarian",2017
+"125363","Universities","Bacon","Tamsin",145602.95,598.42,"University of Windsor","Librarian III; Program Coordinator",2017
+"125371","Universities","Ball","Katharine",147178.55,663.52,"University of Windsor","Librarian III",2017
+"125379","Universities","Berg","Selinda",118349.57,538.64,"University of Windsor","Associate University Librarian; Librarian III; Head, Leddy Library - Information Services",2017
+"125401","Universities","Calarco","Pascal",191527.75,2166.51,"University of Windsor","Librarian III; University Librarian",2017
+"125444","Universities","Dalton","Joan",171030.09,733.46,"University of Windsor","Librarian III; Executive Director",2017
+"125459","Universities","Demers","Annette",154440.92,670.62,"University of Windsor","Librarian III; Law Librarian; Sessional Instructor",2017
+"125474","Universities","Ebbett","Maria",212811.22,2339.36,"University of Windsor","Librarian IV",2017
+"125573","Universities","Jacobs","Heidi",110978.68,545.26,"University of Windsor","Librarian III",2017
+"125588","Universities","Kaay","Anne",113554.07,562.58,"University of Windsor","Librarian II",2017
+"125651","Universities","Liu","Guoying",112995.74,518.76,"University of Windsor","Librarian III; Head, Leddy Library - Systems Department",2017
+"125657","Universities","Lukasewych","Peter",130398.72,0,"University of Windsor","Librarian III",2017
+"125678","Universities","Maskell","Catherine",167516.15,663.52,"University of Windsor","Librarian IV",2017
+"125713","Universities","Munro","Sharon",140274.57,663.52,"University of Windsor","Librarian III",2017
+"125755","Universities","Pillon","Karen",129915.57,620.22,"University of Windsor","Librarian III; Associate University Librarian",2017
+"125778","Universities","Rhyno","Arthur",154412.04,663.52,"University of Windsor","Librarian IV",2017
+"125839","Universities","Soutter","Jennifer",138309.09,662.82,"University of Windsor","Librarian III",2017
+"125863","Universities","Thompson","Kristi",123331.43,606.52,"University of Windsor","Librarian III",2017
+"125904","Universities","Williams","Mita",146362.08,661.3,"University of Windsor","Head, Leddy Library - Information Services; Librarian III; Preceptor",2017
+"125935","Universities","Zhao","Shuzhen",109410,596.96,"University of Windsor","Librarian III; Head, Leddy Library - Acquisitions/Bibliographic Services",2017
+"125941","Universities","Zimmerman","Peter",124416.15,611.96,"University of Windsor","Librarian III",2017
+"126031","Universities","Derrenbacker","Cynthia",119639.87,442.68,"Laurentian University of Sudbury","Assistant Librarian",2017
+"126145","Universities","Lamothe","Alain",123459.77,475.85,"Laurentian University of Sudbury","Associate Librarian",2017
+"126177","Universities","Maley","Desmond",155056.46,477.63,"Laurentian University of Sudbury","Associate Librarian",2017
+"126258","Universities","Roe","Brent",170839.12,477.63,"Laurentian University of Sudbury","University Librarian",2017
+"126276","Universities","Scott","Daniel",143552.68,477.63,"Laurentian University of Sudbury","Associate Librarian",2017
+"126307","Universities","Thomson","Ashley",177066.97,294.03,"Laurentian University of Sudbury","Full Librarian",2017
+"126373","Universities","Ashoughian","Gohar",170420.95,439.84,"Wilfrid Laurier University","University Librarian",2017
+"126391","Universities","Bertrand","Gordon",142724.61,367.41,"Wilfrid Laurier University","Associate University Librarian",2017
+"126438","Universities","Chaves","Deborah",109212.25,261.9,"Wilfrid Laurier University","Librarian",2017
+"126511","Universities","Fesnak","Vera",147397.99,373.06,"Wilfrid Laurier University","Librarian",2017
+"126537","Universities","Genzinger","Peter",104212.8,269.22,"Wilfrid Laurier University","Librarian",2017
+"126542","Universities","Gillies","Scott",127534.47,17.39,"Wilfrid Laurier University","Associate University Librarian",2017
+"126580","Universities","Hendry","Julia",119844.02,300.88,"Wilfrid Laurier University","Librarian",2017
+"126599","Universities","Innerd","Charlotte",107995.2,269.08,"Wilfrid Laurier University","Librarian",2017
+"126622","Universities","Kelly","E. Anne",110567.05,281.56,"Wilfrid Laurier University","Librarian",2017
+"126661","Universities","Leblanc","Helene",133447.42,328.64,"Wilfrid Laurier University","Librarian",2017
+"126770","Universities","Oud","Joanne",161501.08,347.1,"Wilfrid Laurier University","Librarian",2017
+"126846","Universities","Sennema","Gregory",140080.02,331.5,"Wilfrid Laurier University","Librarian",2017
+"126884","Universities","Tales","Matt",121324.11,296.48,"Wilfrid Laurier University","Librarian",2017
+"126888","Universities","Tencinger","Irene",104211.27,269.69,"Wilfrid Laurier University","Librarian",2017
+"126978","Universities","Gerolami","Natasha",100323.96,309.02,"Huntington University","Associate Librarian",2017
+"127028","Universities","Davidson","Catherine",102242.07,158.76,"University of Ontario Institute of Technology","University Librarian",2017
+"127040","Universities","Drayson","Pamela",141428.42,223.07,"University of Ontario Institute of Technology","University Librarian",2017
+"127132","Universities","Mittlestead","Carol",114085.3,179.5,"University of Ontario Institute of Technology","Associate Librarian",2017
+"127245","Universities","Beard","Colleen",148371.48,603.72,"Brock University","Librarian IV/ Librarian Head",2017
+"127265","Universities","Bordonaro","Karen",144950.04,599.4,"Brock University","Librarian IV",2017
+"127341","Universities","Deans Kassies","Mandy",128103.48,592.95,"Brock University","Head, Collections Services/ Librarian III",2017
+"127411","Universities","Gibson","Ian",102922.9,582.84,"Brock University","Librarian III",2017
+"127419","Universities","Gordon","Ian D.",159946.41,605.3,"Brock University","Librarian III",2017
+"127535","Universities","Lowry","Linda",146512.98,600.12,"Brock University","Librarian III",2017
+"127601","Universities","Morrison","Laurie",123845.52,591.18,"Brock University","Interim Associate University Librarian",2017
+"127657","Universities","Ribaric","Tim",104571.96,583.8,"Brock University","Librarian III",2017
+"127661","Universities","Robertson","Mark",167378.55,478.55,"Brock University","University Librarian",2017
+"127694","Universities","Sharron","David",124860,591.6,"Brock University","Special Collection Librarian and University Archivist / Librarian III",2017
+"127742","Universities","Thiessen","Jennifer",120832.85,590.09,"Brock University","Librarian III",2017
+"127784","Universities","Whipple","Heather Helene",109369.34,588.6,"Brock University","Librarian III",2017
+"127804","Universities","Younker","Jonathan",136020.48,595.92,"Brock University","Head, Library Systems And Technology/ Librarian III",2017
+"127827","Universities","Carter","Richard",104615.42,358.98,"University of St. Michael's College","Librarian, John M. Kelly Library",2017
+"127831","Universities","Hagelaar","David",135802.62,237.12,"University of St. Michael's College","Associate Chief Librarian, John M. Kelly Library",2017
+"127832","Universities","Hook","Sheril",143328.43,237.12,"University of St. Michael's College","Chief Librarian, John M. Kelly Library",2017
+"127835","Universities","Mcferran","Noel",130395.2,237.12,"University of St. Michael's College","Librarian, John M. Kelly Library",2017
+"127840","Universities","Pulwer","Remigiusz",106936.44,202.8,"University of St. Michael's College","Librarian, John M. Kelly Library",2017
+"128044","Universities","Alford","Larry Paul",264150.84,223.8,"University of Toronto","University Chief Librarian",2017
+"128317","Universities","Bolan","John",113659.06,186.9,"University of Toronto","Head, Instructional Services Librarian",2017
+"128361","Universities","Bradshaw","Graham",146780,223.8,"University of Toronto","Humanities Selector Librarian",2017
+"128726","Universities","Crichton","Chad Emerson",112947.54,269.4,"University of Toronto","Liaison Librarian, University of Toronto Scarborough",2017
+"128727","Universities","Crichton Patterson","Janice",134142.48,298.62,"University of Toronto","Librarian and Assistant Director, Centre for Teaching and Learning",2017
+"128752","Universities","D'Agostino","Daniel",136836.02,223.8,"University of Toronto","Social Sciences Selector Librarian",2017
+"128829","Universities","Devakos","Rea",104713.47,70.68,"University of Toronto","Librarian",2017
+"128954","Universities","English","Margaret",118467.48,353.34,"University of Toronto","Librarian",2017
+"129010","Universities","Fedko","Sarah Anne",105669,189,"University of Toronto","Information Literacy/Liaison Librarian, University of Toronto Scarborough",2017
+"129063","Universities","Forbes","Sarah M.",108265.5,177.42,"University of Toronto","Scholarly Communication/Liaision Libarian and Deputy Chief Librarian, University of Toronto Scarborough",2017
+"129107","Universities","Fulford","Margaret",125989.02,222.54,"University of Toronto","Reference Librarian",2017
+"129199","Universities","Goettler","R Elaine",147201.96,223.8,"University of Toronto","Associate Librarian, Faculty Engagement and Liaison",2017
+"129326","Universities","Hannaford","Julie",168371.04,223.8,"University of Toronto","Deputy Chief Librarian",2017
+"129327","Universities","Hannaford","Paula",124619.52,213,"University of Toronto","Associate Librarian, Student Engagement and Public Services",2017
+"129377","Universities","Hawrychuk","Shelley",149004.48,223.8,"University of Toronto","Interim Chief Librarian",2017
+"129459","Universities","Houtman","Eveline",132248.94,448.14,"University of Toronto","Reference Librarian and Graduate Instruction Coordinator",2017
+"129634","Universities","Kawula","Bartlomiej",104619.53,2919.76,"University of Toronto","Information Architecture Librarian",2017
+"129699","Universities","Kim","Sooin",125511.01,222.12,"University of Toronto","Faculty Services Librarian",2017
+"129703","Universities","King","Pamela",137376.52,223.8,"University of Toronto","Coordinator, Digital Initiatives and Scholarly Communications, Librarian",2017
+"129789","Universities","Kula","Helen",112173.96,386.82,"University of Toronto","Coordinator, Institute of Management and Innovation Library Services, Librarian",2017
+"129797","Universities","Kuntz","Blair",108355.98,193.74,"University of Toronto","Cataloguing Librarian",2017
+"129818","Universities","Lacivita","Patricia",116575.98,208.44,"University of Toronto","Librarian and Coordinator, Collections, University of Toronto Scarborough",2017
+"129853","Universities","Laughton","Simone",118125.54,352.44,"University of Toronto","Coordinator, Library Instructional Technology Services, Librarian",2017
+"129940","Universities","Li","Sam-Chin",132675.02,448.14,"University of Toronto","Reference and Government Publications Librarian",2017
+"129958","Universities","Links","Joan",116435.67,192.9,"University of Toronto","Media Commons Librarian",2017
+"130038","Universities","Macdonald","Loryl",134514.01,331.8,"University of Toronto","Interim Associate Chief Librarian, Special Collections and Director, Fisher Rare Books Library",2017
+"130109","Universities","Marks","Stephen",105961,2906.09,"University of Toronto","Digital Preservation Librarian",2017
+"130128","Universities","Mason","James",103685.04,185.34,"University of Toronto","Public Service Librarian",2017
+"130174","Universities","Mcdowell","Sara",100925,180.54,"University of Toronto","Reference Librarian and Coordinator for Instruction in Library Use",2017
+"130217","Universities","Medves","Gian P",153849.51,448.14,"University of Toronto","Chief Law Librarian",2017
+"130224","Universities","Meindl","Patricia",121540.98,217.32,"University of Toronto","Librarian",2017
+"130434","Universities","Newman","Jeffrey",126782.55,2830.84,"University of Toronto","Librarian",2017
+"130446","Universities","Nichol","Gail",120776.54,216,"University of Toronto","Life Sciences Selector Librarian",2017
+"130447","Universities","Nicholson","Andrew",116701.98,208.68,"University of Toronto","Coordinator, Geographic Information System and Research Data Services, Librarian",2017
+"130476","Universities","O'Brien","Elizabeth",112823,2021.66,"University of Toronto","Librarian and Head, Strategic Initiatives, University of Toronto Scarborough",2017
+"130486","Universities","Okrasa","Maksymilian",139024.98,448.14,"University of Toronto","Librarian, Cataloguing Automation Specialist",2017
+"130514","Universities","Owen","Victoria",168643.97,223.8,"University of Toronto","Librarian and Chief Librarian, University of Toronto Scarborough",2017
+"130590","Universities","Perrier","Laure",102592.98,183.42,"University of Toronto","Research Data Management Librarian",2017
+"130687","Universities","Puchalski","Irene",132727.48,448.14,"University of Toronto","Architecture Librarian",2017
+"130694","Universities","Qiao","Stephen",131516.66,373.32,"University of Toronto","China Studies Librarian",2017
+"130800","Universities","Rocha","Fabiano",105617.52,188.88,"University of Toronto","Librarian, Japan Studies Collection and Cataloguing Services",2017
+"130820","Universities","Romanosky","Neil",155102,10523.8,"University of Toronto","Associate Chief Librarian for Science Research and Information",2017
+"130909","Universities","Santolin","Christina",105272.49,376.92,"University of Toronto","Reference Librarian",2017
+"131020","Universities","Shier","Andrea",123503.46,439.86,"University of Toronto","Librarian",2017
+"131077","Universities","Singh","Nalini",109544.4,275.4,"University of Toronto","Librarian",2017
+"131084","Universities","Skelton","Victoria",135795,223.8,"University of Toronto","Librarian",2017
+"131090","Universities","Slawek","Anna",115477.5,275.46,"University of Toronto","Cataloguing Librarian",2017
+"131136","Universities","Sonne De Torrens","Harriet",106510.02,190.44,"University of Toronto","Visual Resources Librarian",2017
+"131161","Universities","Stapelfeldt","Kirsta",106742.62,1555.06,"University of Toronto","Librarian and Coordinator, Digital Scholarship Unit, University of Toronto Scarborough",2017
+"131249","Universities","Sze","Elisa",107842.05,259.42,"University of Toronto","Librarian",2017
+"131252","Universities","Szurmak","Joanna",108415.5,193.86,"University of Toronto","Digital Initiatives Librarian",2017
+"131338","Universities","Tillman","Caitlin",144830.94,223.8,"University of Toronto","Associate Chief Librarian, Collections and Materials Management",2017
+"131344","Universities","Toews","Jennifer",123229.97,219.18,"University of Toronto","Curator of Modern Manuscripts and Reference Librarian",2017
+"131353","Universities","Torrens","Miguel",138647,223.8,"University of Toronto","Latin American and Italian Studies Librarian",2017
+"131375","Universities","Trimble","Leanne",108375.49,191.1,"University of Toronto","Data and Statistics Librarian",2017
+"131558","Universities","Whyte","Ian",155905.01,457.02,"University of Toronto","Chief Librarian, University of Toronto Mississauga",2017
+"131720","Universities","Zhao","Wei",106578,560.62,"University of Toronto","Senior Metadata Librarian",2017
