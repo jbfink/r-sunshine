@@ -1,0 +1,11 @@
+sunshine <- read.csv("ontario-2017-sunshine-list.csv")
+library(readr)
+#these two lines convert factor (strings) for salary and benefits to numeric
+sunshine$Salary.Paid <- parse_number(sunshine$Salary.Paid)
+sunshine$Taxable.Benefits <- parse_number(sunshine$Taxable.Benefits)
+#here we get librarians
+librarians <- sunshine[grep("Librarian", sunshine$Job.Title, perl=TRUE), ]
+# here we get specific universities, but INVESTIGATE how to do a loop (sapply or something I donno) to automagic this:
+mcmaster_librarians <- librarians[grep("Mcmaster University", librarians$Employer, perl=TRUE), ]
+york_librarians <- librarians[grep("York University", librarians$Employer, perl=TRUE), ]
+ryerson_librarians <- librarians[grep("Ryerson University", librarians$Employer, perl=TRUE), ]
